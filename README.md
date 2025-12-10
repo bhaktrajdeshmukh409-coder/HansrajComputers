@@ -1,5 +1,4 @@
-# HansrajComputers(https://github.com/user-attachments/files/24079372/Bhaktraj.html)
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
