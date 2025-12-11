@@ -180,7 +180,8 @@
         <div class="service-container">
 
             <div class="service-card">
-                <img src="https://ibb.co/HLW5ppzb"width=200 ligth="300" alt="Computer Repair">
+                <img src="<img width="643" height="360" alt="image" src="https://github.com/user-attachments/assets/8414cf28-9471-41c7-a9b6-02258511b9a8" />
+"width=200 ligth="300" alt="Computer Repair">
                 <h3>Computer & Laptops Repair </h3>
                 <p>We fix all hardware and software issues.</p>
             </div>
