@@ -180,7 +180,7 @@
         <div class="service-container">
 
             <div class="service-card">
-                <<img src="imege/360_F_1069349353_mNiEjjygAgaKQTi8Cu2pRpjGuyVTTxyI.jpg" alt="CCtv">
+                <img src="imege/360_F_1069349353_mNiEjjygAgaKQTi8Cu2pRpjGuyVTTxyI.jpg" alt="CCtv">
                 <h3>Computer & Laptops Repair </h3>
                 <p>We fix all hardware and software issues.</p>
             </div>
