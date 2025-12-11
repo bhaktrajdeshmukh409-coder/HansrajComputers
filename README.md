@@ -186,7 +186,7 @@
             </div>
 
             <div class="service-card">
-                <img src="imege/360_F_1069349353_mNiEjjygAgaKQTi8Cu2pRpjGuyVTTxyI.jpg" alt="CCtv">
+                <img src="https://thumbs.dreamstime.com/b/software-update-installation-upgrade-data-concept-75690112.jpg" alt="CCtv">
                 <h3>Software Installation</h3>
                 <p>Windows, MS Office, Antivirus & more.</p>
             </div>
