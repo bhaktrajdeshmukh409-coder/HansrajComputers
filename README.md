@@ -180,7 +180,7 @@
         <div class="service-container">
 
             <div class="service-card">
-                <img src="https://t4.ftcdn.net/jpg/10/69/34/93/360_F_1069349353_mNiEjjygAgaKQTi8Cu2pRpjGuyVTTxyI.jpg"width=200 ligth="300" alt="Computer Repair">
+                <img src="imege/360_F_1069349353_mNiEjjygAgaKQTi8Cu2pRpjGuyVTTxyI.jpg"width=200 ligth="300" alt="Computer Repair">
                 <h3>Computer & Laptops Repair </h3>
                 <p>We fix all hardware and software issues.</p>
             </div>
