@@ -186,7 +186,7 @@
             </div>
 
             <div class="service-card">
-                <img src="https://thumbs.dreamstime.com/b/software-update-installation-upgrade-data-concept-75690112.jpg"width=200 ligth="300" alt="Software Installation">
+                <img src="https://thumbs.dreamstime.com/b/software-update-installation-upgrade-data-concept-75690112.jpg alt="Software Installation">
                 <h3>Software Installation</h3>
                 <p>Windows, MS Office, Antivirus & more.</p>
             </div>
