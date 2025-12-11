@@ -200,7 +200,7 @@
             </div>
 
             <div class="service-card">
-                
+                <img src="https://origincdnv2.blob.core.windows.net/img/landing/custom-pc-builder/guybuildingpc.jpg" alt="Custom PC Build">
                 <h3>Custom PC Build</h3>
                 <p>Gaming, editing & workstation PCs.</p>
             </div>
