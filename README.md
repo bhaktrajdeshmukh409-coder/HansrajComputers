@@ -180,30 +180,29 @@
         <div class="service-container">
 
             <div class="service-card">
-                <img src="<img width="643" height="360" alt="image" src="https://github.com/user-attachments/assets/8414cf28-9471-41c7-a9b6-02258511b9a8" />
-"width=200 ligth="300" alt="Computer Repair">
+                <<img src="imege/360_F_1069349353_mNiEjjygAgaKQTi8Cu2pRpjGuyVTTxyI.jpg" alt="CCtv">
                 <h3>Computer & Laptops Repair </h3>
                 <p>We fix all hardware and software issues.</p>
             </div>
 
             <div class="service-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/CCTV_Cameras.png" alt="CCtv">
+                <img src="imege/360_F_1069349353_mNiEjjygAgaKQTi8Cu2pRpjGuyVTTxyI.jpg" alt="CCtv">
                 <h3>Software Installation</h3>
                 <p>Windows, MS Office, Antivirus & more.</p>
             </div>
 
             <div class="service-card">
-                <img src="https://origincdnv2.blob.core.windows.net/img/landing/custom-pc-builder/guybuildingpc.jpg"width=200 ligth="300" alt="Custom PC Build">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/CCTV_Cameras.png" alt="CCtv">
                 <h3>Custom PC Build</h3>
                 <p>Gaming, editing & workstation PCs.</p>
             </div>
 
             <div class="service-card">
-                <img src="https://t4.ftcdn.net/jpg/10/69/34/93/360_F_1069349353_mNiEjjygAgaKQTi8Cu2pRpjGuyVTTxyI.jpg"width=200 ligth="300" " alt="CCTV Meantinunce">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/CCTV_Cameras.png" alt="CCtv">
                 <h3>CCTV Meantinunce</h3>
             </div>
              <div class="service-card">
-                <img src="https://t3.ftcdn.net/jpg/16/58/02/16/360_F_1658021648_opd8I5fhXIuUGT2VZYfQhvvsInsytpTl.jpg"width=200 ligth="300" alt="Data Recovery">
+               <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/CCTV_Cameras.png" alt="CCtv">
                 <h3>Data Recovery</h3>
             </div>
 
