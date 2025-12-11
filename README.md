@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -167,8 +167,16 @@
                 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/CCTV_Cameras.png" alt="CCtv">
                 <h3>CCTV</h3>
                 <p> High Quality .</p>
-                <button>See Now</button>
+                <a href="CCTV.html"><button>See Now</button></a>
             </div>
+
+            <div class="product-card">
+                <img src="https://img.freepik.com/premium-photo/computer-accessories-isolated-white-background_621955-44010.jpg?semt=ais_hybrid&w=740&q=80" alt="Mouse">
+                <h3>Other Products</h3>
+                <p> High performance Computers for work and gaming.</p>
+                <a href="Other Products.html"><button>See Now</button></a>
+            </div>
+
 
         </div>
     </section>
@@ -180,19 +188,19 @@
         <div class="service-container">
 
             <div class="service-card">
-                <img src="imege/360_F_1069349353_mNiEjjygAgaKQTi8Cu2pRpjGuyVTTxyI.jpg" alt="CCtv">
+                <img src="https://t4.ftcdn.net/jpg/10/69/34/93/360_F_1069349353_mNiEjjygAgaKQTi8Cu2pRpjGuyVTTxyI.jpg" alt="Computer Repair">
                 <h3>Computer & Laptops Repair </h3>
                 <p>We fix all hardware and software issues.</p>
             </div>
 
             <div class="service-card">
-                <img src="https://thumbs.dreamstime.com/b/software-update-installation-upgrade-data-concept-75690112.jpg" alt="CCtv">
+                <img src="https://thumbs.dreamstime.com/b/software-update-installation-upgrade-data-concept-75690112.jpg" alt="Software Installation">
                 <h3>Software Installation</h3>
                 <p>Windows, MS Office, Antivirus & more.</p>
             </div>
 
             <div class="service-card">
-                <img src="https://origincdnv2.blob.core.windows.net/img/landing/custom-pc-builder/guybuildingpc.jpg" alt="CCtv">
+                
                 <h3>Custom PC Build</h3>
                 <p>Gaming, editing & workstation PCs.</p>
             </div>
@@ -202,7 +210,7 @@
                 <h3>CCTV Meantinunce</h3>
             </div>
              <div class="service-card">
-               <img src="https://t3.ftcdn.net/jpg/16/58/02/16/360_F_1658021648_opd8I5fhXIuUGT2VZYfQhvvsInsytpTl.jpg" alt="CCtv">
+                <img src="https://t3.ftcdn.net/jpg/16/58/02/16/360_F_1658021648_opd8I5fhXIuUGT2VZYfQhvvsInsytpTl.jpg" alt="CCtv">
                 <h3>Data Recovery</h3>
             </div>
 
